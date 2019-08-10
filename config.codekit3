@@ -27,6 +27,28 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/img/hi.jpg": {
+		"ft": 16384,
+		"iS": 2021606,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/hi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/yb8.jpg": {
+		"ft": 16384,
+		"iS": 787607,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/yb8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
